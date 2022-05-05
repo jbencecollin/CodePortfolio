@@ -1,0 +1,1 @@
+The NYSE_Close.csv data set actually contains data from the NASDAQ. 
